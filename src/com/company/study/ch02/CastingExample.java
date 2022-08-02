@@ -28,9 +28,13 @@ public class CastingExample {
 		System.out.println("byteValue:" + byteValue);
 		
 		
+		
+		// int 를 string 으로 변환
+		
 		String stringValue = String.valueOf(intValue);
 		System.out.println("srtingValue:" + stringValue);
 		
+		// string 을 int 로 변환
 		int intValue2 = Integer.parseInt(stringValue);
 		System.out.println("intValue2:" + intValue2);
 		

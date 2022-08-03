@@ -26,7 +26,39 @@ public class ArithmeticOperatorExample {
 		
 		double result7 = (double)a/b;
 		System.out.println(result7);
+		System.out.println("Hello World!");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		good(60 , 70 , 85 , 90 , 45);
+		good(50 , 75 , 70 , 60 , 70);
+		good(55 , 60 , 64 , 58 , 90);
+		good(80 , 70 , 63 , 88 , 78);
+		
 		
 	}
 
+	public static void good( int a, int b, int c , int d , int e ) {
+		
+		System.out.println("평균:"+ (double) (a+b+c+d+e) / 5 );
+		
+		
+	}
+	
 }
+
+

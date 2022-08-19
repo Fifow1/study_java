@@ -43,6 +43,16 @@ public class ArrayInArrayExanple {
 			}
 			System.out.println(result1/5);
 		}
+		
+		System.out.println("___________________");
+		int[] sum2 = new int[3];
+		
+	//	for(int i=0 ; i<score1.len)
+		
+		
+		
+		
+		
 	}
 }
 	

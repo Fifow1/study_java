@@ -17,7 +17,6 @@ public class ArrayCteateByNewExample {
 		System.out.println(arr1[1]);
 		System.out.println(arr1[2]);
 		
-		
 	}
 
 }

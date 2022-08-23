@@ -1165,14 +1165,6 @@ public class LottoPlease {
 			
 			System.out.println("");
 		
-		
-			
-			
-		
-		
-
-		
-	
 		}
 
 	}

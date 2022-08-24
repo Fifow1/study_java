@@ -20,4 +20,15 @@ public class Korean {
 		this.age = age;
 	}
 
+	
+	static String na = "2";
+	
+	static int test (int a) {
+		return a + 10;
+	}
+	
+	
+	
+	
+	
 }

@@ -1,6 +1,5 @@
 package com.company.study.ch06;
 
-import com.sun.org.apache.xpath.internal.operations.Plus;
 
 public class Arithmetic {
 	
